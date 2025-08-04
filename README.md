@@ -1,6 +1,8 @@
 Netflix Titles Data Cleaning & Preprocessing
 This project involves cleaning and preprocessing the Netflix Titles dataset available on Kaggle. The main goal is to prepare the raw data for further analysis and machine learning tasks by handling missing values, fixing inconsistencies, and transforming key features.
+
 Dataset Source : https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
+
 Steps Performed:
 
 1. Data Cleaning
